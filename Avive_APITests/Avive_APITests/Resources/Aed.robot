@@ -1,4 +1,5 @@
 *** Settings ***
+Documentation       Goes here
 Library    RequestsLibrary
 Library    String
 Library    Collections
