@@ -1,4 +1,5 @@
 *** Settings ***
+Documentation  API TEST SAMPLE
 Library    RequestsLibrary  
 Library    Collections  
 Library    JSONLibrary
